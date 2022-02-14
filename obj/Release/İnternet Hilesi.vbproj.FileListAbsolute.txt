@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\İnternet Hilesi\bin\Release\İnternet Hilesi.exe.config
+C:\Users\Lenovo\source\repos\İnternet Hilesi\bin\Release\İnternet Hilesi.exe
+C:\Users\Lenovo\source\repos\İnternet Hilesi\bin\Release\İnternet Hilesi.pdb
+C:\Users\Lenovo\source\repos\İnternet Hilesi\bin\Release\İnternet Hilesi.xml
+C:\Users\Lenovo\source\repos\İnternet Hilesi\obj\Release\İnternet_Hilesi.Form1.resources
+C:\Users\Lenovo\source\repos\İnternet Hilesi\obj\Release\İnternet_Hilesi.Resources.resources
+C:\Users\Lenovo\source\repos\İnternet Hilesi\obj\Release\İnternet Hilesi.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\İnternet Hilesi\obj\Release\İnternet Hilesi.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\İnternet Hilesi\obj\Release\İnternet Hilesi.exe
+C:\Users\Lenovo\source\repos\İnternet Hilesi\obj\Release\İnternet Hilesi.xml
+C:\Users\Lenovo\source\repos\İnternet Hilesi\obj\Release\İnternet Hilesi.pdb
+C:\Users\Lenovo\source\repos\İnternet Hilesi\bin\Release\İnternet Hilesi.exe.manifest
+C:\Users\Lenovo\source\repos\İnternet Hilesi\bin\Release\İnternet Hilesi.application
+C:\Users\Lenovo\source\repos\İnternet Hilesi\obj\Release\İnternet Hilesi.exe.manifest
+C:\Users\Lenovo\source\repos\İnternet Hilesi\obj\Release\İnternet Hilesi.application
